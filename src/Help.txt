@@ -1,0 +1,7 @@
+﻿--- HILFE ---
+Island Defender
+
+Dies ist die Hilfsdatei für das Spiel Island Defender. 
+
+Wie ersichtlich ist, muss sie erst noch geschrieben werden.
+:-)

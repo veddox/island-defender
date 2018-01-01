@@ -1,0 +1,80 @@
+06.08.2014 16:26:38	Info:		RoundManagerTester	start Tester ...
+06.08.2014 16:39:07	Info:		RoundManagerTester	start Tester ...
+06.08.2014 16:39:44	Info:		RoundManagerTester	start Tester ...
+06.08.2014 16:41:06	Info:		RoundManager	Timeout reached!
+06.08.2014 16:43:19	Info:		RoundManagerTester	start Tester ...
+06.08.2014 16:44:37	Info:		RoundManagerTester	start Tester ...
+06.08.2014 16:45:14	Info:		RoundManagerTester	start Tester ...
+06.08.2014 16:45:14	Verbose:	RoundManager	Starting timer
+06.08.2014 16:45:35	Info:		RoundManagerTester	start Tester ...
+06.08.2014 16:45:35	Verbose:	RoundManager	Starting timer...
+06.08.2014 16:45:35	Verbose:	RoundManager	Timer started.
+06.08.2014 16:49:34	Info:		RoundManagerTester	start Tester ...
+06.08.2014 16:49:34	Verbose:	RoundManager	Starting timer...
+06.08.2014 16:49:34	Verbose:	RoundManager	Timer started.
+06.08.2014 16:49:34	Verbose:	RoundManager	Testing player 4
+06.08.2014 16:50:48	Info:		RoundManagerTester	start Tester ...
+06.08.2014 16:50:48	Verbose:	RoundManager	Starting timer...
+06.08.2014 16:50:48	Verbose:	RoundManager	Timer started.
+06.08.2014 16:50:48	Verbose:	RoundManager	Testing player 4
+06.08.2014 16:50:48	Verbose:	RoundManager	Testing player 3
+06.08.2014 16:50:48	Verbose:	RoundManager	Testing player 2
+06.08.2014 16:50:48	Verbose:	RoundManager	Testing player 1
+06.08.2014 16:50:48	Info:		TimeoutTask	Timer resetted
+06.08.2014 16:50:48	Verbose:	RoundManager	Starting timer...
+06.08.2014 16:53:24	Info:		RoundManagerTester	start Tester ...
+06.08.2014 16:53:24	Verbose:	RoundManager	Starting timer...
+06.08.2014 16:53:24	Verbose:	RoundManager	Timer started.
+06.08.2014 16:53:24	Verbose:	RoundManager	Testing player 4
+06.08.2014 16:53:24	Verbose:	RoundManager	Testing player 3
+06.08.2014 16:53:24	Verbose:	RoundManager	Testing player 2
+06.08.2014 16:53:24	Verbose:	RoundManager	Testing player 1
+06.08.2014 16:53:24	Info:		TimeoutTask	Timer resetted
+06.08.2014 16:53:24	Verbose:	RoundManager	Starting timer...
+06.08.2014 16:54:59	Info:		RoundManagerTester	start Tester ...
+06.08.2014 16:54:59	Verbose:	RoundManager	Starting timer...
+06.08.2014 16:54:59	Verbose:	RoundManager	Timer started.
+06.08.2014 16:54:59	Verbose:	RoundManager	Testing player 4
+06.08.2014 17:52:07	Error:		HelpWindow	Error loading file!
+06.08.2014 17:52:27	Error:		HelpWindow	Error loading file!
+06.08.2014 17:52:58	Error:		HelpWindow	Error loading file!
+06.08.2014 20:25:22	Error:		HelpWindow	Error loading file!
+06.08.2014 20:53:21	Error:		HelpWindow	Error loading file!
+06.08.2014 20:55:36	Error:		HelpWindow	Error loading file!
+06.08.2014 20:57:46	Error:		HelpWindow	Error loading file!
+06.08.2014 21:02:40	Error:		HelpWindow	Error loading file!
+06.08.2014 21:03:52	Error:		HelpWindow	URL is null!
+06.08.2014 21:03:52	Error:		HelpWindow	Error loading file!
+06.08.2014 21:04:38	Error:		HelpWindow	URL is null!
+06.08.2014 21:04:38	Error:		HelpWindow	Error loading file!
+06.08.2014 21:06:56	Error:		HelpWindow	URL is null!
+06.08.2014 21:06:56	Error:		HelpWindow	Error loading file!
+06.08.2014 21:09:22	Error:		HelpWindow	URL is null!
+06.08.2014 21:09:22	Error:		HelpWindow	Error loading file!
+06.08.2014 21:09:39	Error:		HelpWindow	URL is null!
+06.08.2014 21:09:39	Error:		HelpWindow	Error loading file!
+06.08.2014 21:12:53	Error:		HelpWindow	URL is null!
+06.08.2014 21:12:53	Error:		HelpWindow	Error loading file!
+06.08.2014 21:29:12	Verbose:	GUI	Finishing round...
+06.08.2014 21:29:20	Verbose:	GUI	Finishing round...
+06.08.2014 21:29:24	Verbose:	GUI	Finishing round...
+06.08.2014 22:19:30	Info:		RoundManagerTester	start Tester ...
+06.08.2014 22:29:30	Info:		RoundManager	Timeout reached!
+06.08.2014 22:29:30	Info:		RoundManager	Timeout reached!
+06.08.2014 22:29:30	Info:		RoundManager	Timeout reached!
+06.08.2014 22:29:30	Info:		RoundManager	Timeout reached!
+06.08.2014 22:30:27	Info:		Handelsposten	Handel getätigt! Sebastian bekommt 500 Waffen.
+06.08.2014 22:32:33	Info:		Handelsposten	Handel getätigt! Peter bekommt 1200 Geld.
+06.08.2014 22:37:54	Info:		Handelsposten	Handel getätigt! Christopher bekommt 30 Werkzeuge.
+06.08.2014 22:38:14	Info:		Handelsposten	Handel getätigt! Sebastian bekommt 20 Waffen.
+06.08.2014 22:43:48	Info:		Handelsposten	Handel getätigt! Sebastian bekommt 605 Werkzeuge.
+06.08.2014 22:51:13	Info:		Handelsposten	Handel getätigt! Daniel bekommt 246 Essen.
+06.08.2014 22:53:41	Info:		Handelsposten	Handel getätigt! Christopher bekommt 400 Werkzeuge.
+06.08.2014 23:34:45	Info:		Handelsposten	Handel getätigt! Peter bekommt 90439 Geld.
+06.08.2014 23:45:32	Info:		Handelsposten	Handel getätigt! Sebastian bekommt 264 Werkzeuge.
+12.10.2014 09:59:45	Error:		PreperationPanel.setActivePlayerReady(boolean)	Active Player isn't added yet!
+01.11.2014 20:31:01	Info:		Handelsposten	Handel getätigt! Daniel bekommt 132 Geld.
+01.11.2014 20:31:24	Info:		Handelsposten	Handel getätigt! Sebastian bekommt 132 Werkzeuge.
+01.11.2014 20:33:12	Verbose:	GUI	Finishing round...
+01.11.2014 20:36:46	Info:		Handelsposten	Handel getätigt! Christopher bekommt 24 Werkzeuge.
+02.01.2017 21:20:24	Info:		Handelsposten	Handel getätigt! Christopher bekommt 100 Geld.
